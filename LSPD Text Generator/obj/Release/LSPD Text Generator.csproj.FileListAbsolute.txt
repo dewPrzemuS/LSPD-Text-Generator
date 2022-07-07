@@ -1,0 +1,11 @@
+E:\LSPD Text Generator\LSPD Text Generator\bin\Release\LSPD Text Generator.exe.config
+E:\LSPD Text Generator\LSPD Text Generator\bin\Release\LSPD Text Generator.exe
+E:\LSPD Text Generator\LSPD Text Generator\bin\Release\LSPD Text Generator.pdb
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.csproj.AssemblyReference.cache
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.csproj.SuggestedBindingRedirects.cache
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD_Text_Generator.LSPDTG.resources
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD_Text_Generator.Properties.Resources.resources
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.csproj.GenerateResource.cache
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.csproj.CoreCompileInputs.cache
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.exe
+E:\LSPD Text Generator\LSPD Text Generator\obj\Release\LSPD Text Generator.pdb
