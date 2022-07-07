@@ -22,7 +22,6 @@ namespace LSPD_Text_Generator
             string text = textBox1.Text;
             string output = text.Replace("{1}", textBox2.Text).Replace("{2}", textBox3.Text).Replace("{3}", textBox4.Text).Replace("{4}", textBox5.Text).Replace("{5}", textBox6.Text);
             Clipboard.SetText(output);
-            MessageBox.Show("Skopiowano!");
         }
     }
 }
